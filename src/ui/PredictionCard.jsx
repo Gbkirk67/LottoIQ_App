@@ -1,0 +1,1 @@
+// JSX prediction card component

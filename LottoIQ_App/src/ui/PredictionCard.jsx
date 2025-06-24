@@ -1,0 +1,1 @@
+// JSX placeholder for prediction card layout
