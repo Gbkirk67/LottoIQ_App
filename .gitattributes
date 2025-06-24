@@ -1,0 +1,6 @@
+# Ensure consistent line endings
+* text=auto
+
+# Treat shell and batch files as text
+*.sh text
+*.bat text
